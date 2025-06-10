@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+h1 {
+  background-color: #333;
+  color: white;
+  padding: 10px 0;
+  margin: 0;
+}
+
+#mapa {
+  height: 90vh;
+  width: 100%;
+}
+
+#filtroCrimes {
+  margin: 10px;
+  padding: 5px;
+  font-size: 16px;
+}
